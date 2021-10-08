@@ -1,5 +1,5 @@
 
-![Github Banner](assets/banner.png)
+![Github Banner](banner.png)
 
 ## Connect with me
 
