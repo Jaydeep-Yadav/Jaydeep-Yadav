@@ -1,7 +1,8 @@
 
 ![Github Banner](banner.png)
+## Who am I? 
+<!-- [![Profile views](https://komarev.com/ghpvc/?username=jaydeep-yadav&label=Profile%20views)](https://github.com/jaydeep-yadav) -->
 
-## Who am I?
 
  ```python
   class WhoAmI:
@@ -30,7 +31,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
+
 
 ## Programming Languages
 
@@ -85,8 +87,10 @@
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 </p>
 
-## Connect with Me
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Jaydeep-yadav&theme=react-dark&hide_border=true&area=true)
+
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
