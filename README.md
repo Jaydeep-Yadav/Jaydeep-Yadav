@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Jaydeep;I+Love+C+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
 </p>
 
+
+
 ## Who am I? 
 <!-- [![Profile views](https://komarev.com/ghpvc/?username=jaydeep-yadav&label=Profile%20views)](https://github.com/jaydeep-yadav) -->
 
@@ -112,15 +114,12 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
-
-
-
-<!-- ## 🔥 Streak stats
-
- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats
 <p align="center">
-  <a href="https://github.com/Neeraj2002/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Neeraj2002&theme=monokai-metallian&hide_border=true"/>
-  </a> </p>-->
-  
+    <a href="https://github.com/">
+        <img src="https://komarev.com/ghpvc/?username=Jaydeep-Yadav" alt="Jaydeep-Yadav" />
+    </a>
+    <a href="https://github.com/jaydeep-yadav">
+        <img height="20" src="https://img.shields.io/github/followers/jaydeep-yadav?label=follow&logo=github" />
+	</a>
+</p>
 
