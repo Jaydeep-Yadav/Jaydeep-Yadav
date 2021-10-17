@@ -98,7 +98,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Jaydeep-yadav&theme=react-dark&hide_border=true&area=true)
 
-## Connect with Me
+<h2 align="center"> Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
