@@ -1,0 +1,2 @@
+Started diving into javascript
+Reacting with react
