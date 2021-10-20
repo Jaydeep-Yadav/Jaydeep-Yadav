@@ -122,5 +122,8 @@
     <a href="https://github.com/jaydeep-yadav">
         <img height="20" src="https://img.shields.io/github/followers/jaydeep-yadav?label=follow&logo=github" />
 	</a>
+	 <a href="https://github.com/jaydeep-yadav">
+        <img height="20" src="https://img.shields.io/github/stars/jaydeep-yadav?label=stars&logo=github" />
+	</a>
 </p>
 
