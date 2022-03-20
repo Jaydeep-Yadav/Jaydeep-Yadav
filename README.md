@@ -25,7 +25,7 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Durg_Chhattisgarh_India()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
