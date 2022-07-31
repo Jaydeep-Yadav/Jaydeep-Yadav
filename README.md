@@ -15,7 +15,7 @@
   class WhoAmI:
     user = 'Jaydeep Yadav'
 	current_edu = "CSIT"
-    currently_learning = "Javascript"
+    currently_learning = "MERN Stack"
     fun_fact = "I hate Chillies"
 	hobbies = [
 				'Music',
