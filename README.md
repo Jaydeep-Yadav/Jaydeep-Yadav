@@ -14,8 +14,8 @@
  ```python
   class WhoAmI:
     user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "MERN Stack"
+    college = "CSIT"
+    Technology= "MERN Stack"
     fun_fact = "I hate Chillies"
 	hobbies = [
 				'Music',
@@ -28,8 +28,7 @@
 		return Durg_Chhattisgarh_India()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+		BecomeSoftwareEngineering()
 	
  ```
 
