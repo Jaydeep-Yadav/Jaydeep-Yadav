@@ -13,15 +13,15 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-    college = "CSIT"
-    Technology= "MERN Stack"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
+    User = 'Jaydeep Yadav'
+    College = "CSIT"
+    Technology = "MERN Stack"
+    Fun_fact = "I hate Chillies"
+Hobbies = [
+		'Music',
+  'Chilling',
+ 	'Gaming',
+		'Sci-Fi Movies'
 			]
 	
 	def getCity():
